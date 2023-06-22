@@ -8,7 +8,8 @@ drap and drop todo app to multiple section
 2. tailwind css
 3. react-beautiful-dnd
 
-working demo pictures
+## Working Demo Pictures
+
 ![image](https://github.com/ftr9/chattest/assets/60734475/764e681e-9df0-4ca3-b592-8fe457e2f85a)
 ![image](https://github.com/ftr9/chattest/assets/60734475/8477a091-53d5-45aa-aae9-20c088712024)
 ![image](https://github.com/ftr9/chattest/assets/60734475/e6b5d268-59a9-4803-a05a-12d466013eb5)
